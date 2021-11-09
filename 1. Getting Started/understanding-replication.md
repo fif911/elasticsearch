@@ -1,5 +1,10 @@
 # Understanding replication
 
+Shard can have their replicas not to lose data
+The replica shard should be stored on different from master shard nodes (cause if node with master shard fails we still will have
+it's replicas)
+
+
 ## Creating a new index
 
 ```
