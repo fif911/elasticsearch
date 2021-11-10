@@ -1,5 +1,7 @@
 #
 
+https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
+
 Difference between Query and Filter
 If relevance should be calculated - Query
 If just boolean match or do not match - Filter
