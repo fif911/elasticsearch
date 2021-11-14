@@ -81,3 +81,8 @@ nested objects are stored as hidden documents internaly
 making words in root form and deleting words in analysis process
 
 # Analyzers and search queries
+
+# pagination
+from
+size
+https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-body.html#request-body-search-search-after
